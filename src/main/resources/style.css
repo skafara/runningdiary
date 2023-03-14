@@ -1,0 +1,6 @@
+.table-column {
+    -fx-alignment: CENTER;
+}
+.tree-cell {
+    -fx-font-family: monospace;
+}
